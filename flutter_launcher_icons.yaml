@@ -1,0 +1,7 @@
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path_android: "launcher-icons/android.png"
+  min_sdk_android: 30 
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "launcher-icons/android-foreground.png"
+  adaptive_icon_monochrome: "launcher-icons/android-monochrome.png"
